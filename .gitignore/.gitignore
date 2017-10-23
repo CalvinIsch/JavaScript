@@ -3,10 +3,21 @@ bin-debug/
 bin-release/
 [Oo]bj/
 [Bb]in/
+Applications/
+Desktop/
+Documents/
+Downloads/
+Library/
+Music/
+my-app/
 
 # Other files and folders
-.settings/
-.my-app/
+.CFUserTextEncoding
+.DS_Store
+.Trash/
+.bash_sessions/
+.dropbox/
+	
 
 # Executables
 *.swf
